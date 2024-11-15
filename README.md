@@ -32,3 +32,32 @@ Signs in or creates an account via the Signup page.
 Gains access to the Dashboard for managing crypto transactions.
 Uses the Send Money feature to initiate transactions.
 This MERN-based platform demonstrates a robust architecture for building scalable, user-friendly crypto applications. It can be further expanded to include features like transaction history, wallet integration, and real-time crypto analytics.
+
+## HOME PAGE
+![Screenshot 2024-11-16 025734](https://github.com/user-attachments/assets/dc710e9e-bb65-4edf-a661-78f2dd8f2df1)
+
+
+## SIGN IN![signin](https://github.com/user-attachments/assets/c978de4a-71c3-465f-9931-2d57abdb1767)
+
+
+## SIGN UP
+![sign up](https://github.com/user-attachments/assets/cdea6029-1ed0-4d64-877e-1c4ad9c2bdef)
+
+##DASHBOARD
+
+![Dashboard](https://github.com/user-attachments/assets/34a97d77-2e5a-4fbb-a15b-99d12041f5db)
+
+## TRANSACTION
+![transaction](https://github.com/user-attachments/assets/b67c63a0-184b-44cc-8db7-d1f0a69ed81a)
+
+
+## CLONING INSTRUCTION
+
+  npm i
+  env file to replace your variable 
+  good to gooooo
+
+  ##  THANKS :)
+
+
+
